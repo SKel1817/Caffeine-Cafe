@@ -65,7 +65,7 @@ def numbered_menu():
 # This begins the actual program and a very large and annoying if statment
 # Greet the customer
 print(
-    "Welcome to Caffine Cafe where all your coffee dreams are lines of text on a screen"
+    "Welcome to Caffeine Cafe where all your coffee dreams are lines of text on a screen"
 )
 print("What can we do for you today?")
 
@@ -166,7 +166,7 @@ while True:
     elif cho_one == "3":
         print("So you wanna suggest a coffee? Alrighty lay it one me")
         # gets name of coffee and adds it to the bev list
-        suggestion = input("Type name of Coffee here").title()
+        suggestion = input("Type name of Coffee here: ").title()
         bev.append(suggestion)
 
         # gathers ingridents and puts it in an empty list so we can but it in the dictornary
