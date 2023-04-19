@@ -4,3 +4,9 @@ Small Light Roast Coffee with No Milk
 Medium Hot Chocolate with Oat Milk
 Small Dark Roast Coffee with Soy Milk
 Small Mocha Latte with Skim Milk
+This customer ordered:
+Medium
+ Medium Roast Coffee
+Whole milk
+Special Instructions: No
+End of customer
