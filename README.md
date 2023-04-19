@@ -9,7 +9,7 @@ Before beginning using this applicaiton, you need to have python 3.10+ installed
 
 ### Getting Started:
 To access our games, you will need to run the main.py file with python. To do this, follow the steps below:
-1. Clone our entire GitHub repository using the following link  (https://github.com/SKel1817/CSI1310_Final_Project)
+1. Clone our entire GitHub repository using the following link  (https://github.com/SKel1817/Caffeine-Cafe)
 2. Open your command prompt or terminal and navigate to the directory where you saved the project.
 3. Run the “main.py” file using Python to run Caffeine Cafe.
 
@@ -17,5 +17,5 @@ To access our games, you will need to run the main.py file with python. To do th
 Once you run main.py it will will give you instructions of how to naviagte the menu inside the terminal. You will have many options and to interact with them you will need to enter the desired information with your keyboard and then hit enter. 
 
 ### Support: 
-If you encounter any issues while please let us know by submitting an issue at: https://github.com/SKel1817/CSI2300_Final_project/issues
+If you encounter any issues while please let us know by submitting an issue at: https://github.com/SKel1817/Caffeine-Cafe/issues
 
